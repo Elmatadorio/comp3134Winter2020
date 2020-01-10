@@ -1,0 +1,17 @@
+1. A server Port is a way to indentify a specific process to which an internet or any other network message is to be 
+forwarded when it arrives at a server.
+
+2. The range is from 0 to 65535, but only port numbers 0 to 1023 are reserved.
+
+3. 65,535 bytes
+
+4. DNS  	         - 53
+   HTTP                  - 80
+   SMTP		         - 25
+   SQL Server            -156
+   SNMP                  -161
+   POP3                  -110
+   NetBIOS Name Service  -137
+   HTTPS                 -443
+   DHCP Client           -546
+   MSN                   -569
