@@ -1,0 +1,33 @@
+Domain Name: cp24.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 199.85.71.129
+Geolocation: CA (Canada), ON, Ontario, M5V Toronto
+
+*************************************************************************************
+*************************************************************************************
+
+Domain Name: bloomberg.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 69.187.24.15
+Geolocation: US (United States), NY, New York, 10022 New York
+
+*************************************************************************************
+*************************************************************************************
+
+Domain Name: thesecret.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 54.200.93.227
+Geolocation: US (United States), OR, Oregon, 97818 Boardman
+*************************************************************************************
+*************************************************************************************
+Domain Name: thecrowhouse.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 67.20.81.143
+Geolocation: US (United States), UT, Utah, 84606 Provo
+
+*************************************************************************************
+*************************************************************************************
+Domain Name: crystallinks.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 69.162.80.57
+Geolocation: US (United States), TX, Texas, 75202 Dallas

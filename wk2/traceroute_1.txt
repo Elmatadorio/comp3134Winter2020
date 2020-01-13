@@ -1,0 +1,32 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# traceroute georgebrown.ca
+traceroute to georgebrown.ca (198.96.86.202), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.4.46 (10.78.4.46)  1.638 ms 10.78.4.40 (10.78.4.40)  1.831 ms 10.78.4.                                                                                                                46 (10.78.4.46)  1.474 ms
+ 3  138.197.249.78 (138.197.249.78)  1.005 ms 138.197.249.90 (138.197.249.90)  1                                                                                                                .343 ms 138.197.249.86 (138.197.249.86)  1.198 ms
+ 4  138.197.249.71 (138.197.249.71)  1.187 ms gtanet.ip4.torontointernetxchange.                                                                                                                net (206.108.34.207)  2.161 ms 138.197.249.71 (138.197.249.71)  1.940 ms
+ 5  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  2.780 ms  1.684 ms g                                                                                                                brownc-ut-hub-if-internet.gtanet.ca (205.211.94.174)  1.704 ms
+ 6  georgebrown.ca (198.96.86.202)  2.060 ms gbrownc-ut-hub-if-internet.gtanet.c                                                                                                                a (205.211.94.174)  0.823 ms  0.585 ms
+ 7  georgebrown.ca (198.96.86.202)  1.197 ms *  1.084 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
